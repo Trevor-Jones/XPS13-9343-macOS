@@ -1,4 +1,4 @@
-# XPS13-9343-macOS
+# XPS13-9343-macOS 10.12
 
 - Kexts used are in `/KEXTS/` Use `Kext Utility.app` to install to `/System/Library/Extensions/`
 - Some info can be found in [this thread](https://www.tonymacx86.com/threads/guide-dell-xps-13-9343-sierra.206399/). However, the part about preference panes is bad, DO NOT FOLLOW THAT STEP.
